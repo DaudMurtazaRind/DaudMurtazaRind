@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaudMurtazaRind
-- 👀 I’m interested in Android/Kotlin development
-- 🌱 I’m currently learning Android/Kotlin development
+- 👀 I’m interested in PHP/Laravel development
+- 🌱 I’m currently learning PHP/Laravel development
 - 📫 How to reach me daud21111987@gmail.com
 
 <!---
